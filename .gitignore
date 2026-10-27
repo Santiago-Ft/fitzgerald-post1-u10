@@ -1,4 +1,6 @@
 target/
+target/*
+.sonar/
 *.class
 .idea/
 *.iml
